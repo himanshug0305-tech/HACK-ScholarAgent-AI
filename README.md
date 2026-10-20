@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+Check out the live application here: hack-scholar-agent-ai-blush.vercel.app
+
+
 # ScholarAgent AI
 
 **Autonomous AI Web Agent Engine for Equalizing Scholarship Access**  
