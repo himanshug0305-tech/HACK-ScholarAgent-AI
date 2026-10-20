@@ -1,5 +1,5 @@
 ## 🚀 Live Demo
-Check out the live application here: hack-scholar-agent-ai-blush.vercel.app
+Check out the live application here: [hack-scholar-agent-ai-blush.vercel.app](https://vercel.app)
 
 
 # ScholarAgent AI
